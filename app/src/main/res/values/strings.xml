@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTP15</string>
+    <string name="textview">Progress Bar :</string>
+    <string name="progression">Progression :</string>
+</resources>
